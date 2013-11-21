@@ -1,0 +1,15 @@
+inGameSummoners Android App
+
+contributors: markus-kusano, khoang65
+url: https://github.com/khoang65/inGameSummoners/
+
+This android application is used for the online game, League of Legends. The 
+app will use a player name (input from user), and will take real time data 
+from the site, www.lolteam.net, to display information of the games that 
+are in progress.
+
+Currently, we have some code which we hope to improve upon (Rule of Economy). 
+In addition to adding more features, we hope to clean up the code and make it 
+more modular (Rule of Modularity and Rule of Transparency). We will be testing 
+the code on our android devices to prototype and polish the current and new 
+features (Rule of Optimization).
